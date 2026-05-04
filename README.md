@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Carlos Batistella
+# 👋 Olá, eu sou Carlos Eduardo Batistella
 
 ### Analista de Processos | Power Platform Specialist | Automação | Dados | Melhoria Contínua
 
