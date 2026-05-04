@@ -4,10 +4,6 @@
 
 ### Analista de Processos | Power Platform Specialist | Automação | Dados | Melhoria Contínua
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3a8a&height=220&section=header&text=Carlos%20Batistella&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20Apps%20•%20Power%20Automate%20•%20Dados%20•%20Eficiência&descAlignY=58&descSize=18" />
-
-</div>
-
 ---
 
 ## 🚀 Sobre mim
